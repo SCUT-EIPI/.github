@@ -23,7 +23,7 @@
 
 ## About EIPI Lab
 
-We are the **EIPI Lab** (**E**volutionary **I**ntelligence for Science and Engineering, inspired by $e^{i\pi}$), a research group under the Computational Intelligence Team at the School of Computer Science and Engineering, South China University of Technology (SCUT), led by [**Prof. Jinghui Zhong**](https://jinghuizhong.com/).
+We are the **EIPI Lab** (**E**volutionary **I**ntelligence for Science and Engineering, inspired by <i>e</i><sup><i>i</i>&pi;</sup>), a research group under the Computational Intelligence Team at the School of Computer Science and Engineering, South China University of Technology (SCUT), led by [**Prof. Jinghui Zhong**](https://jinghuizhong.com/).
 
 Our group brings together an interdisciplinary AI research team of 85+ researchers (including postdocs, Ph.D. candidates, master's students, and undergraduate scholars). We focus on bridging evolutionary search, machine learning, foundation models, and domain knowledge to discover interpretable governing laws from scientific data and solve complex, large-scale engineering optimization challenges.
 
