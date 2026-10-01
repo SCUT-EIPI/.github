@@ -1,11 +1,11 @@
 <div align="center">
   <img src="./scut.jpg" alt="South China University of Technology" width="380">
   <br><br>
-  <img src="./logo.png" alt="EπI Logo" width="200">
+  <img src="./logo.png" alt="EIPI Lab Logo" width="210">
   <br>
   <h1>
-    🌟 Welcome to EπI 🌟<br>
-    <sub>Evolutionary Intelligence for Science and Engineering</sub>
+    🌟 Welcome to EIPI Lab 🌟<br>
+    <sub>Evolutionary Intelligence for Science and Engineering · 进化智能研究组</sub>
   </h1>
   <p>
     <b>Computational Intelligence Team · School of Computer Science and Engineering</b><br>
@@ -16,7 +16,7 @@
     <a href="https://www2.scut.edu.cn/cs_en/"><img src="https://img.shields.io/badge/SCUT-School%20of%20CSE-003366?style=flat-square&logo=academia" alt="SCUT CSE"></a>
     <a href="https://jinghuizhong.com/"><img src="https://img.shields.io/badge/Advisor-Prof.%20Jinghui%20Zhong-107C41?style=flat-square" alt="Advisor"></a>
     <a href="https://scholar.google.com/citations?user=AO5BsHwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4500%2B%20Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-    <a href="https://github.com/SCUT-EPII"><img src="https://img.shields.io/badge/GitHub-SCUT--EPII-181717?style=flat-square&logo=github" alt="GitHub Org"></a>
+    <a href="https://github.com/SCUT-EPII"><img src="https://img.shields.io/badge/GitHub-EIPI%20Lab-181717?style=flat-square&logo=github" alt="GitHub Org"></a>
   </p>
 </div>
 
@@ -24,15 +24,26 @@
 
 ## 😎 Who are we?
 
-We are a research team mainly focused on **Evolutionary Computation**, **Intelligent Optimization & Decision-Making**, **Large Language Models & Multimodal Intelligence**, and **Explainable AI for Science (Symbolic Regression)**. We belong to the **Computational Intelligence Team**, School of Computer Science and Engineering, South China University of Technology (SCUT). We are an energetic team composed of postdocs, Ph.D. students, master's students, and undergraduate researchers.
+> **EIPI — Evolutionary Intelligence for Science and Engineering**  
+> **EIPI Lab（进化智能研究组 / 进化智能派）** 隶属于华南理工大学计算机科学与工程学院计算智能团队，由 [**钟竞辉教授 (Prof. Jinghui Zhong)**](https://jinghuizhong.com/) 领衔指导。
 
-Our team is advised by [**Prof. Jinghui Zhong (钟竞辉)**](https://jinghuizhong.com/). Under the theme of **Evolutionary Intelligence for Science and Engineering (EπI)**, our mission is to explore how evolutionary search, deep learning, foundation models, and domain knowledge can synergistically integrate to discover mathematical equations, solve complex optimization problems, and support scientific understanding and engineering decision-making.
+EIPI 的名字源于欧拉恒等式中的 $e^{i\pi}$：**e** 象征进化，**i** 象征智能，**$\pi$** 象征科学。我们融合进化搜索、机器学习与领域知识，探索科学规律，构建可解释模型，求解复杂工程问题。标识中的螺线寓意持续探索与迭代进步。
+
+| 核心元素 | 品牌寓意 | 对应团队核心研究 |
+|---|---|---|
+| **$e$ — Evolution** | 通过搜索、选择与迭代改进，发现更好的结构和解 | 进化计算、遗传编程、智能优化 |
+| **$i$ — Intelligence** | 将学习、推理和知识融入搜索与发现过程 | 机器学习、大模型、知识引导的方法 |
+| **$\pi$ — Science** | 用数学表达、可解释模型与验证理解问题 | 符号回归、科学发现 (AI for Science)、科学与工程建模 |
+
+<br>
+
+We are an energetic academic group consisting of postdocs, Ph.D. candidates, master's students, and undergraduate researchers. Our research is driven by curiosity and real-world impact, focusing on uncovering interpretable physical laws, advancing foundational optimization theory, and developing intelligent decision-making systems for critical applications.
 
 ### 🔗 Quick Links
-- **Professor's Academic Homepage:** [jinghuizhong.com](https://jinghuizhong.com/)
-- **SCUT Faculty Profile:** [School of Computer Science and Engineering, SCUT](https://www2.scut.edu.cn/cs_en/_t239/2025/1016/c45160a605605/page.htm)
-- **Google Scholar:** [Prof. Jinghui Zhong's Citations (4,500+ citations)](https://scholar.google.com/citations?user=AO5BsHwAAAAJ)
-- **GitHub Organization:** [SCUT-EPII](https://github.com/SCUT-EPII)
+- **Advisor Academic Homepage:** [jinghuizhong.com](https://jinghuizhong.com/)
+- **SCUT Faculty Profile:** [Prof. Jinghui Zhong at SCUT CSE](https://www2.scut.edu.cn/cs_en/_t239/2025/1016/c45160a605605/page.htm)
+- **Google Scholar:** [4,500+ Citations & Publication Record](https://scholar.google.com/citations?user=AO5BsHwAAAAJ)
+- **GitHub Organization:** [SCUT-EPII (EIPI Lab)](https://github.com/SCUT-EPII)
 
 ---
 
