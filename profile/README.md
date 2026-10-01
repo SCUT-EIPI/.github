@@ -5,7 +5,7 @@
   <br>
   <h1>
     🌟 Welcome to EIPI Lab 🌟<br>
-    <sub>Evolutionary Intelligence for Science and Engineering · 进化智能研究组</sub>
+    <sub>Evolutionary Intelligence for Science and Engineering</sub>
   </h1>
   <p>
     <b>Computational Intelligence Team · School of Computer Science and Engineering</b><br>
@@ -22,26 +22,15 @@
 
 <br>
 
-## 😎 Who are we?
+## 😎 Who Are We?
 
-> **EIPI — Evolutionary Intelligence for Science and Engineering**  
-> **EIPI Lab（进化智能研究组 / 进化智能派）** 隶属于华南理工大学计算机科学与工程学院计算智能团队，由 [**钟竞辉教授 (Prof. Jinghui Zhong)**](https://jinghuizhong.com/) 领衔指导。
+We are the **EIPI Lab** (**E**volutionary **I**ntelligence for Science and Engineering, inspired by $e^{i\pi}$), a research group under the Computational Intelligence Team at the School of Computer Science and Engineering, South China University of Technology (SCUT), led by [**Prof. Jinghui Zhong**](https://jinghuizhong.com/).
 
-EIPI 的名字源于欧拉恒等式中的 $e^{i\pi}$：**e** 象征进化，**i** 象征智能，**$\pi$** 象征科学。我们融合进化搜索、机器学习与领域知识，探索科学规律，构建可解释模型，求解复杂工程问题。标识中的螺线寓意持续探索与迭代进步。
-
-| 核心元素 | 品牌寓意 | 对应团队核心研究 |
-|---|---|---|
-| **$e$ — Evolution** | 通过搜索、选择与迭代改进，发现更好的结构和解 | 进化计算、遗传编程、智能优化 |
-| **$i$ — Intelligence** | 将学习、推理和知识融入搜索与发现过程 | 机器学习、大模型、知识引导的方法 |
-| **$\pi$ — Science** | 用数学表达、可解释模型与验证理解问题 | 符号回归、科学发现 (AI for Science)、科学与工程建模 |
-
-<br>
-
-We are an energetic academic group consisting of postdocs, Ph.D. candidates, master's students, and undergraduate researchers. Our research is driven by curiosity and real-world impact, focusing on uncovering interpretable physical laws, advancing foundational optimization theory, and developing intelligent decision-making systems for critical applications.
+Our group brings together postdoctoral researchers, Ph.D. students, master's students, and undergraduate scholars. We focus on bridging evolutionary search, machine learning, foundation models, and domain knowledge to discover interpretable governing laws from scientific data and solve complex, large-scale engineering optimization challenges.
 
 ### 🔗 Quick Links
 - **Advisor Academic Homepage:** [jinghuizhong.com](https://jinghuizhong.com/)
-- **SCUT Faculty Profile:** [Prof. Jinghui Zhong at SCUT CSE](https://www2.scut.edu.cn/cs_en/_t239/2025/1016/c45160a605605/page.htm)
+- **Faculty Profile:** [Prof. Jinghui Zhong at SCUT CSE](https://www2.scut.edu.cn/cs_en/_t239/2025/1016/c45160a605605/page.htm)
 - **Google Scholar:** [4,500+ Citations & Publication Record](https://scholar.google.com/citations?user=AO5BsHwAAAAJ)
 - **GitHub Organization:** [SCUT-EPII (EIPI Lab)](https://github.com/SCUT-EPII)
 
@@ -49,27 +38,20 @@ We are an energetic academic group consisting of postdocs, Ph.D. candidates, mas
 
 ## 🔬 Research Directions
 
-- **Evolutionary Computation & Intelligent Optimization:** Genetic programming (GP), gene expression programming (GEP), evolutionary transfer and multitask optimization, and intelligent decision-making for complex systems.
-- **Symbolic Regression & Explainable AI for Science:** Discovering interpretable physical laws, governing equations, mathematical conjectures, and analytical solutions from scientific data.
-- **Large Language Models & Multimodal Intelligence:** Foundation models, reasoning, perception, and their integration with optimization algorithms and domain knowledge.
-- **Learning & Modeling for Engineering Systems:** Combining reinforcement learning, heuristic optimization, and agent-based modeling to solve complex real-world engineering challenges.
+- **Evolutionary Computation & Intelligent Optimization:** Genetic programming (GP), gene expression programming (GEP), evolutionary transfer and multitask optimization (MTO), and automated heuristic design.
+- **Symbolic Regression & AI for Science:** Discovering interpretable physical laws, governing differential equations, mathematical conjectures, and analytical formulas directly from scientific observations.
+- **Large Language Models & Multimodal Intelligence:** Foundation models, reasoning frameworks, and their synergistic integration with search and optimization algorithms.
+- **Learning & Modeling for Complex Engineering Systems:** Reinforcement learning, agent-based modeling, and heuristic optimization for intelligent transportation, sensor networks, and crowd safety management.
 
 ---
 
 ## 📚 Featured Publications
 
-> We have published 100+ papers in top-tier international journals and conferences, including over 40 IEEE/ACM Transactions articles. Below is a curated selection of our flagship and highly-cited publications, organized by research theme.
-
-### 📌 Table of Contents
-- 📝 [1. Survey & Perspective Papers](#1-survey--perspective-papers)
-- 🧬 [2. Symbolic Regression & AI for Science](#2-symbolic-regression--ai-for-science)
-- ⚡ [3. Evolutionary Multitasking & Transfer Optimization](#3-evolutionary-multitasking--transfer-optimization)
-- 🤖 [4. Deep Reinforcement Learning & Intelligent Decision-Making](#4-deep-reinforcement-learning--intelligent-decision-making)
-- 🏙️ [5. Complex Systems & Engineering Applications](#5-complex-systems--engineering-applications)
+> Selected flagship and highly-cited publications in top-tier IEEE/ACM Transactions and premier conferences. For our complete publication record (100+ papers, 40+ IEEE/ACM Transactions), please visit [Prof. Jinghui Zhong's Google Scholar](https://scholar.google.com/citations?user=AO5BsHwAAAAJ).
 
 <br>
 
-### 📝 1. Survey & Perspective Papers
+### 📝 Survey & Perspective Papers
 
 - J. Dong and J. Zhong*. "[**Recent Advances in Symbolic Regression**](https://doi.org/10.1145/3735634)." *ACM Computing Surveys (CSUR)*, 57(11), Article 290, 2025. `🌟 CSUR Survey` `AI for Science`
 - T. Wei, J. Zhong*, et al. "[**A Review on Evolutionary Multitask Optimization: Trends and Challenges**](https://doi.org/10.1109/tevc.2021.3139437)." *IEEE Transactions on Evolutionary Computation (TEVC)*, 26(5): 920–937, 2021. `🔥 200+ Citations` `Top Journal`
@@ -77,7 +59,7 @@ We are an energetic academic group consisting of postdocs, Ph.D. candidates, mas
 
 <br>
 
-### 🧬 2. Symbolic Regression & AI for Science
+### 🧬 Symbolic Regression & AI for Science
 
 - M.-Y. Zheng, Y. Wang, J. Zhong*, and J. Zhang. "[**Discovering Infinite Recursive Conjectures Through Genetic Programming**](https://doi.org/10.1109/tevc.2025.3611312)." *IEEE Transactions on Evolutionary Computation (TEVC)*, 2025. `Top Journal` `Mathematical Discovery`
 - J. Zhong*, J. Dong, W.-L. Liu, L. Feng, and J. Zhang. "[**Multiform Genetic Programming Framework for Symbolic Regression Problems**](https://doi.org/10.1109/tevc.2025.3527875)." *IEEE Transactions on Evolutionary Computation (TEVC)*, 29(2): 429–443, 2025. `Top Journal` `Multiform GP`
@@ -87,7 +69,7 @@ We are an energetic academic group consisting of postdocs, Ph.D. candidates, mas
 
 <br>
 
-### ⚡ 3. Evolutionary Multitasking & Transfer Optimization
+### ⚡ Evolutionary Multitasking & Transfer Optimization
 
 - J. Zhong*, et al. "[**Evolutionary Multitasking via Explicit Autoencoding**](https://doi.org/10.1109/tcyb.2018.2845361)." *IEEE Transactions on Cybernetics (TCYB)*, 49(9): 3457–3470, 2018. `🔥 430+ Citations` `Landmark MTO Work`
 - L. Zhou, J. Zhong*, et al. "[**Toward Adaptive Knowledge Transfer in Multifactorial Evolutionary Computation**](https://doi.org/10.1109/tcyb.2020.2974100)." *IEEE Transactions on Cybernetics (TCYB)*, 51(4): 2033–2046, 2020. `🔥 240+ Citations` `Adaptive Transfer`
@@ -96,7 +78,7 @@ We are an energetic academic group consisting of postdocs, Ph.D. candidates, mas
 
 <br>
 
-### 🤖 4. Deep Reinforcement Learning & Intelligent Decision-Making
+### 🤖 Deep Reinforcement Learning & Intelligent Decision-Making
 
 - X. Han, X. Mu, and J. Zhong*. "[**HGFF: A Deep Reinforcement Learning Framework for Lifetime Maximization in Wireless Sensor Networks**](https://doi.org/10.1109/tai.2024.3497926)." *IEEE Transactions on Artificial Intelligence (TAI)*, 6(4): 859–873, 2025. `Top Journal` `DRL + WSN Optimization`
 - X.-C. Liao, J. Zhong*, et al. "[**DRIFT: A Dynamic Crowd Inflow Control System Using LSTM-Based Deep Reinforcement Learning**](https://doi.org/10.1109/tsmc.2025.3549627)." *IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC)*, 2025. `Top Journal` `Dynamic Control`
@@ -104,7 +86,7 @@ We are an energetic academic group consisting of postdocs, Ph.D. candidates, mas
 
 <br>
 
-### 🏙️ 5. Complex Systems & Engineering Applications
+### 🏙️ Complex Systems & Engineering Applications
 
 - Y. Bai, J. Zhong*, et al. "[**UAV Path Planning for Data Collection From Wireless Sensor Network With Matrix-Based Evolutionary Computation**](https://doi.org/10.1109/tits.2025.3568359)." *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 2025. `Top Journal` `Smart Transportation`
 - W. Liu, J. Zhong*, et al. "[**Towards explainable traffic signal control for urban networks through genetic programming**](https://doi.org/10.1016/j.swevo.2024.101588)." *Swarm and Evolutionary Computation*, 85: 101588, 2024. `🔥 28+ Citations` `Explainable Traffic Control`
@@ -112,8 +94,6 @@ We are an energetic academic group consisting of postdocs, Ph.D. candidates, mas
 - X.-C. Liao, J. Zhong*, et al. "[**Crowd Management Through Optimal Layout of Fences: An Ant Colony Approach Based on Crowd Simulation**](https://doi.org/10.1109/tits.2023.3272318)." *IEEE Transactions on Intelligent Transportation Systems (TITS)*, 24(10): 11210–11223, 2023. `🔥 40+ Citations` `Public Safety Optimization`
 
 <br>
-
-:books: **For the complete list of 100+ publications, please visit [Prof. Jinghui Zhong's Google Scholar Profile](https://scholar.google.com/citations?user=AO5BsHwAAAAJ).**
 
 ---
 
@@ -126,7 +106,7 @@ We are an energetic academic group consisting of postdocs, Ph.D. candidates, mas
 
 ## 📧 Contact Us
 
-Feel free to discuss with us! We warmly welcome academic discussions, research collaborations, and inquiries from prospective students (Ph.D., Master's, and motivated undergraduate researchers).
+We warmly welcome academic discussions, research collaborations, and inquiries from prospective students (Ph.D., Master's, and motivated undergraduate researchers).
 
 - **Advisor:** Prof. Jinghui Zhong — [jinghuizhong@scut.edu.cn](mailto:jinghuizhong@scut.edu.cn)
 - **Location:** School of Computer Science and Engineering, South China University of Technology, Higher Education Mega Center, Guangzhou, China
