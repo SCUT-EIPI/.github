@@ -34,6 +34,10 @@ We study how evolutionary search, machine learning, and domain knowledge can wor
 
 Selected publications by Prof. Jinghui Zhong and collaborators are listed below. His publication record includes more than 150 journal and conference papers. For the full list and current citation metrics, visit his [Google Scholar profile](https://scholar.google.com/citations?user=AO5BsHwAAAAJ).
 
+### Book
+
+- Jinghui Zhong. ***遗传编程算法及其应用*** (*Genetic Programming Algorithms and Their Applications*, in Chinese). Beijing: **Science Press, 2026**. [Companion code and learning resources](https://github.com/SCUT-EIPI/GP-and-its-applications).
+
 ### Survey & Perspective Papers
 
 - Junlan Dong, Jinghui Zhong. [**Recent Advances in Symbolic Regression**](https://doi.org/10.1145/3735634). *ACM Computing Surveys*, 57(11): 1–37, 2025.
@@ -90,7 +94,7 @@ C++ implementation and symbolic regression datasets for *Self-Learning Gene Expr
 
 ### [GP and Its Applications](https://github.com/SCUT-EIPI/GP-and-its-applications)
 
-Companion code and learning materials for Jinghui Zhong’s Chinese-language book *遗传编程算法及其应用* (*Genetic Programming Algorithms and Their Applications*).
+Companion code and learning materials for Jinghui Zhong’s Chinese-language book *遗传编程算法及其应用* (*Genetic Programming Algorithms and Their Applications*), published by **Science Press in 2026**.
 
 - **Topics:** Tree and linear genetic programming, gene expression programming, grammatical evolution, symbolic regression, classification, and neural symbolic methods.
 - **Resources:** Chapter examples, datasets, Jupyter notebooks, and CUDA, OpenMP, and MPI implementations. See the repository for chapter-specific setup instructions and book information.
