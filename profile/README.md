@@ -73,6 +73,12 @@ Selected publications by Prof. Jinghui Zhong and collaborators are listed below.
 
 - Chenglong Jiang, Ying Gao, Wing W.Y. Ng, Jiyong Zhou, Jinghui Zhong, Hongzhong Zhen. [**SeDepTTS: Enhancing the Naturalness via Semantic Dependency and Local Convolution for Text-to-Speech Synthesis**](https://doi.org/10.1609/aaai.v37i11.26523). *Proceedings of the AAAI Conference on Artificial Intelligence*, 37(11): 12959–12967, 2023.
 
+## Awards and Honors
+
+- **IEEE TETCI Outstanding Paper Award:** Awarded to Yongliang Chen, Jinghui Zhong, Liang Feng, and Jun Zhang for *An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization*.
+- **Four international competition championships:** One of these competitions comprised eight tracks.
+- **World’s top 2% of scientists:** Prof. Jinghui Zhong has been included in the Stanford/Elsevier list.
+
 ## Code and Learning Resources
 
 ### [Self-Learning Gene Expression Programming (SL-GEP)](https://github.com/SCUT-EIPI/Self-learning-Gene-Expression-Programming)
