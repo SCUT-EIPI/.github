@@ -55,7 +55,7 @@ Selected publications by Prof. Jinghui Zhong and collaborators are listed below.
 
 ### Evolutionary Multitasking & Intelligent Optimization
 
-- Yongliang Chen, Jinghui Zhong, Liang Feng, Jun Zhang. [**An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization**](https://doi.org/10.1109/tetci.2019.2916051). *IEEE Transactions on Emerging Topics in Computational Intelligence*, 4(3): 369–384, 2020. **IEEE TETCI Outstanding Paper Award.**
+- Yongliang Chen, Jinghui Zhong, Liang Feng, Jun Zhang. [**An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization**](https://doi.org/10.1109/tetci.2019.2916051). *IEEE Transactions on Emerging Topics in Computational Intelligence*, 4(3): 369–384, 2020. **IEEE TETCI Outstanding Paper Award (2023).**
 - Liang Feng, Lei Zhou, Jinghui Zhong, Abhishek Gupta, Yew-Soon Ong, Kay-Chen Tan, A. K. Qin. [**Evolutionary Multitasking via Explicit Autoencoding**](https://doi.org/10.1109/tcyb.2018.2845361). *IEEE Transactions on Cybernetics*, 49(9): 3457–3470, 2019.
 - Lei Zhou, Liang Feng, Kay Chen Tan, Jinghui Zhong, Zexuan Zhu, Kai Liu, Chao Chen. [**Toward Adaptive Knowledge Transfer in Multifactorial Evolutionary Computation**](https://doi.org/10.1109/tcyb.2020.2974100). *IEEE Transactions on Cybernetics*, 51(5): 2563–2576, 2021.
 - Liang Feng, Yuxiao Huang, Lei Zhou, Jinghui Zhong, Abhishek Gupta, Ke Tang, Kay Chen Tan. [**Explicit Evolutionary Multitasking for Combinatorial Optimization: A Case Study on Capacitated Vehicle Routing Problem**](https://doi.org/10.1109/tcyb.2019.2962865). *IEEE Transactions on Cybernetics*, 51(6): 3143–3156, 2021.
@@ -79,7 +79,13 @@ Selected publications by Prof. Jinghui Zhong and collaborators are listed below.
 
 ## Awards and Honors
 
-- **IEEE TETCI Outstanding Paper Award:** Awarded to Yongliang Chen, Jinghui Zhong, Liang Feng, and Jun Zhang for *An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization*.
+Prof. Jinghui Zhong’s awards include:
+
+- **Outstanding Industry-Academia Collaboration Case** — KylinSoft, **2024**.
+- **IEEE TETCI Outstanding Paper Award** — IEEE Computational Intelligence Society (IEEE CIS), **2023**. Awarded to Yongliang Chen, Jinghui Zhong, Liang Feng, and Jun Zhang for *An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization*.
+- **Natural Science Award (First Class)** — Ministry of Education, **2010**.
+
+Additional honors:
 - **Four international competition championships**, including victories in competitions held at the **IEEE World Congress on Computational Intelligence (WCCI)** and the **ACM Genetic and Evolutionary Computation Conference (GECCO)**.
 - **World’s top 2% of scientists:** Prof. Jinghui Zhong has been included in the Stanford/Elsevier list.
 
