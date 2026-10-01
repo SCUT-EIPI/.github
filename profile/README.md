@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./scut.jpg" alt="South China University of Technology" width="380">
-  <br><br>
   <img src="./logo.png" alt="EIPI Lab Logo" width="210">
   <br>
   <h1>
