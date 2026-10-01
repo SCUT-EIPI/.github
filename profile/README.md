@@ -80,7 +80,7 @@ Selected publications by Prof. Jinghui Zhong and collaborators are listed below.
 ## Awards and Honors
 
 - **IEEE TETCI Outstanding Paper Award:** Awarded to Yongliang Chen, Jinghui Zhong, Liang Feng, and Jun Zhang for *An Adaptive Archive-Based Evolutionary Framework for Many-Task Optimization*.
-- **Four international competition championships.**
+- **Four international competition championships**, including victories in competitions held at the **IEEE World Congress on Computational Intelligence (WCCI)** and the **ACM Genetic and Evolutionary Computation Conference (GECCO)**.
 - **World’s top 2% of scientists:** Prof. Jinghui Zhong has been included in the Stanford/Elsevier list.
 
 ## Code and Learning Resources
