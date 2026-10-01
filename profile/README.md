@@ -16,7 +16,7 @@
     <a href="https://www2.scut.edu.cn/cs_en/"><img src="https://img.shields.io/badge/SCUT-School%20of%20CSE-003366?style=flat-square&logo=academia" alt="SCUT CSE"></a>
     <a href="https://jinghuizhong.com/"><img src="https://img.shields.io/badge/Advisor-Prof.%20Jinghui%20Zhong-107C41?style=flat-square" alt="Advisor"></a>
     <a href="https://scholar.google.com/citations?user=AO5BsHwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4500%2B%20Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
-    <a href="https://github.com/SCUT-EPII"><img src="https://img.shields.io/badge/GitHub-EIPI%20Lab-181717?style=flat-square&logo=github" alt="GitHub Org"></a>
+    <a href="https://github.com/SCUT-EIPI"><img src="https://img.shields.io/badge/GitHub-EIPI%20Lab-181717?style=flat-square&logo=github" alt="GitHub Org"></a>
   </p>
 </div>
 
@@ -32,7 +32,7 @@ Our group brings together postdoctoral researchers, Ph.D. students, master's stu
 - **Advisor Academic Homepage:** [jinghuizhong.com](https://jinghuizhong.com/)
 - **Faculty Profile:** [Prof. Jinghui Zhong at SCUT CSE](https://www2.scut.edu.cn/cs_en/_t239/2025/1016/c45160a605605/page.htm)
 - **Google Scholar:** [4,500+ Citations & Publication Record](https://scholar.google.com/citations?user=AO5BsHwAAAAJ)
-- **GitHub Organization:** [SCUT-EPII (EIPI Lab)](https://github.com/SCUT-EPII)
+- **GitHub Organization:** [SCUT-EIPI (EIPI Lab)](https://github.com/SCUT-EIPI)
 
 ---
 
@@ -99,8 +99,8 @@ Our group brings together postdoctoral researchers, Ph.D. students, master's stu
 
 ## 🌍 Open-Source Projects
 
-- [**GP-and-its-applications**](https://github.com/SCUT-EPII/GP-and-its-applications): Open-source implementations, benchmarks, and tutorials for Genetic Programming and symbolic reasoning.
-- [**Self-learning-Gene-Expression-Programming**](https://github.com/SCUT-EPII/Self-learning-Gene-Expression-Programming): Official open-source codebase for Self-Learning Gene Expression Programming (SL-GEP) in adaptive function discovery.
+- [**GP-and-its-applications**](https://github.com/SCUT-EIPI/GP-and-its-applications): Open-source implementations, benchmarks, and tutorials for Genetic Programming and symbolic reasoning.
+- [**Self-learning-Gene-Expression-Programming**](https://github.com/SCUT-EIPI/Self-learning-Gene-Expression-Programming): Official open-source codebase for Self-Learning Gene Expression Programming (SL-GEP) in adaptive function discovery.
 
 ---
 
