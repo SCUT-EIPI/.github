@@ -15,6 +15,7 @@
     <a href="https://jinghuizhong.com/"><img src="https://img.shields.io/badge/Advisor-Prof.%20Jinghui%20Zhong-107C41?style=flat-square" alt="Advisor"></a>
     <a href="https://scholar.google.com/citations?user=AO5BsHwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4500%2B%20Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
     <a href="https://github.com/SCUT-EIPI"><img src="https://img.shields.io/badge/GitHub-EIPI%20Lab-181717?style=flat-square&logo=github" alt="GitHub Org"></a>
+    <img src="https://img.shields.io/badge/Top%202%25-World%20Scientists-blueviolet?style=flat-square" alt="Top 2% Scientists">
   </p>
 </div>
 
@@ -22,15 +23,16 @@
 
 ## 😎 Who Are We?
 
-We are the **EIPI Lab** (**E**volutionary **I**ntelligence for Science and Engineering, inspired by $e^{i\pi}$), a research group under the Computational Intelligence Team at the School of Computer Science and Engineering, South China University of Technology (SCUT), led by [**Prof. Jinghui Zhong**](https://jinghuizhong.com/).
+We are the **EIPI Lab** (**E**volutionary **I**ntelligence for Science and Engineering, inspired by $e^{i\pi}$), a research group under the Computational Intelligence Team at the School of Computer Science and Engineering, South China University of Technology (SCUT), led by [**Prof. Jinghui Zhong**](https://jinghuizhong.com/) (广东省高层次人才青年拔尖人才、全球前 2% 顶尖科学家、教育部自然科学一等奖获得者).
 
-Our group brings together postdoctoral researchers, Ph.D. students, master's students, and undergraduate scholars. We focus on bridging evolutionary search, machine learning, foundation models, and domain knowledge to discover interpretable governing laws from scientific data and solve complex, large-scale engineering optimization challenges.
+Our group brings together an **85+ member interdisciplinary AI R&D matrix** (including postdocs, Ph.D. candidates, master's students, and undergraduate scholars). We focus on bridging evolutionary search, machine learning, foundation models, and domain knowledge to discover interpretable governing laws from scientific data and solve complex, large-scale engineering optimization challenges.
 
-### 🔗 Quick Links
+### 🔗 Quick Links & Honors
 - **Advisor Academic Homepage:** [jinghuizhong.com](https://jinghuizhong.com/)
 - **Faculty Profile:** [Prof. Jinghui Zhong at SCUT CSE](https://www2.scut.edu.cn/cs_en/_t239/2025/1016/c45160a605605/page.htm)
-- **Google Scholar:** [4,500+ Citations & Publication Record](https://scholar.google.com/citations?user=AO5BsHwAAAAJ)
+- **Google Scholar:** [4,500+ Citations & 150+ Publications](https://scholar.google.com/citations?user=AO5BsHwAAAAJ)
 - **GitHub Organization:** [SCUT-EIPI (EIPI Lab)](https://github.com/SCUT-EIPI)
+- **Academic Honors:** 广东省高层次人才计划青年拔尖人才 · 全球前 2% 顶尖科学家 · 教育部自然科学一等奖 · 国际公开竞赛 8 项冠军
 
 ---
 
@@ -45,7 +47,7 @@ Our group brings together postdoctoral researchers, Ph.D. students, master's stu
 
 ## 📚 Featured Publications
 
-> Selected flagship and highly-cited publications in top-tier IEEE/ACM Transactions and premier conferences. For our complete publication record (100+ papers, 40+ IEEE/ACM Transactions), please visit [Prof. Jinghui Zhong's Google Scholar](https://scholar.google.com/citations?user=AO5BsHwAAAAJ).
+> Selected flagship and highly-cited publications in top-tier IEEE/ACM Transactions and premier conferences. For our complete publication record (150+ papers, 40+ IEEE/ACM Transactions, 28 patents), please visit [Prof. Jinghui Zhong's Google Scholar](https://scholar.google.com/citations?user=AO5BsHwAAAAJ).
 
 <br>
 
