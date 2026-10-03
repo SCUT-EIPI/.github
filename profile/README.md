@@ -28,10 +28,10 @@ We study how evolutionary search, machine learning, and domain knowledge can wor
 
 ## Research Directions
 
-- **Evolutionary computation and optimization:** Genetic programming, gene expression programming, and knowledge transfer across optimization tasks.
-- **Symbolic regression and AI for science:** Searching for explicit and implicit mathematical relationships, generating mathematical conjectures, and finding analytical solutions to differential equations.
-- **Language models and multimodal AI:** Combining foundation models with search, mathematical modeling, and validation; studying multimodal learning and reasoning.
-- **Learning and decision-making for complex systems:** Reinforcement learning, agent-based modeling, and evolutionary optimization for transportation, wireless sensor networks, and crowd management.
+- **Intelligent decision-making:** Large language models fuse multimodal information to plan tasks, assess risk, and support decisions in complex scenes.
+- **Intelligent perception:** Deep learning and reinforcement learning for speech recognition, object recognition, product defect detection, and anomaly detection, with deployment on edge devices.
+- **Intelligent optimization:** Efficient algorithms for NP-hard scheduling and expensive black-box optimization. Genetic programming and symbolic regression for knowledge discovery, evolutionary multitasking for knowledge transfer, and analytical solutions of partial differential equations.
+- **Multi-agent simulation:** Agent-based models of large complex systems, such as crowds in airports and other public spaces.
 
 ## Featured Publications
 
