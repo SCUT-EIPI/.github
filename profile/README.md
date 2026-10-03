@@ -89,7 +89,7 @@ Prof. Jinghui Zhong’s awards include:
 
 Additional honors:
 - **Four international competition championships**, including victories in competitions held at the **IEEE World Congress on Computational Intelligence (WCCI)** and the **ACM Genetic and Evolutionary Computation Conference (GECCO)**.
-- **World’s top 2% of scientists:** Prof. Jinghui Zhong has been included in the Stanford/Elsevier list.
+- Prof. Jinghui Zhong has been included in the Stanford list of the world’s top 2% of scientists.
 
 ## Code and Learning Resources
 
