@@ -107,18 +107,6 @@ Companion code and learning materials for Jinghui Zhong’s Chinese-language boo
 - **Topics:** Tree and linear genetic programming, gene expression programming, grammatical evolution, symbolic regression, classification, and neural symbolic methods.
 - **Resources:** Chapter examples, datasets, Jupyter notebooks, and CUDA, OpenMP, and MPI implementations. See the repository for chapter-specific setup instructions and book information.
 
-### [LawMind](https://github.com/SCUT-EIPI/LawMind)
-
-Project for *LawMind: A Law-Driven Framework for Autonomous Discovery of PDE Solutions*. It focuses on searching for closed-form analytical solutions to partial differential equations using governing equations.
-
-**Release status:** The public repository currently contains project documentation; implementation files have not yet been published.
-
-### [TriVAL](https://github.com/SCUT-EIPI/TriVAL)
-
-Project for *TriVAL: A Tri-Validation Framework for Faithful Automatic Optimization Modeling*. It validates semantic specifications, mathematical formulations, and solver code derived from natural-language problem descriptions.
-
-**Release status:** The public repository currently contains project documentation. Implementation and reproduction resources have not yet been published.
-
 ## Contact Us
 
 We welcome research discussions, collaborations, and inquiries from prospective students interested in evolutionary computation, symbolic regression, AI for science, or intelligent optimization.
