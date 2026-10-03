@@ -17,9 +17,9 @@
 
 ## About EIPI Lab
 
-**EIPI Lab** (Evolutionary Intelligence for Science and Engineering) is a research group at **South China University of Technology (SCUT)** in Guangzhou, China, led by [**Prof. Jinghui Zhong**](https://jinghuizhong.com/). Our name is inspired by Euler’s identity, <i>e</i><sup><i>i</i>&pi;</sup> + 1 = 0.
+**EIPI Lab** (Evolutionary Intelligence for Science and Engineering) is a research team at **South China University of Technology (SCUT)** in Guangzhou, China, led by [**Prof. Jinghui Zhong**](https://jinghuizhong.com/). The team brings together a professor, a postdoctoral researcher, doctoral and master's students, and undergraduate researchers.
 
-We study how evolutionary search, machine learning, and domain knowledge can work together to build interpretable models and solve optimization problems. Our work spans genetic programming, symbolic regression, evolutionary multitasking, and intelligent decision-making, with applications in scientific discovery, transportation, sensor networks, and crowd management.
+We work on evolutionary computation and combine it with machine learning and large language models. Our topics include genetic programming and symbolic regression, evolutionary multitasking, intelligent optimization, and multimodal decision-making. We aim to build interpretable models and efficient algorithms for scientific discovery and engineering, and to turn them into systems that run in industry. The name EIPI comes from Euler’s identity, <i>e</i><sup><i>i</i>&pi;</sup> + 1 = 0.
 
 ### Quick Links
 
