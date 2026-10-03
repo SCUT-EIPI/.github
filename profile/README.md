@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SCUT-EIPI/.github/main/profile/logo.jpg" alt="EIPI Lab logo" width="200">
+  <img src="https://raw.githubusercontent.com/SCUT-EIPI/.github/main/profile/logo.png" alt="EIPI Lab logo" width="200">
   <h1>EIPI Lab</h1>
+  <p><a href="https://scut-eipi.github.io/"><img src="https://img.shields.io/badge/Visit%20our%20website-scut--eipi.github.io-0B6E8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit the EIPI Lab website: scut-eipi.github.io"></a></p>
   <h3>Evolutionary Intelligence for Science and Engineering</h3>
   <p><b>A research group at South China University of Technology (SCUT)</b><br>Guangzhou, China</p>
   <p>
@@ -9,7 +10,6 @@
     <a href="https://scholar.google.com/citations?user=AO5BsHwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-5800%2B%20Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Prof. Jinghui Zhong’s Google Scholar: 5,800+ citations"></a>
     <a href="https://github.com/SCUT-EIPI"><img src="https://img.shields.io/badge/GitHub-SCUT--EIPI-181717?style=flat-square&logo=github" alt="SCUT-EIPI on GitHub"></a>
   </p>
-  <p><a href="https://scut-eipi.github.io/">Research group website</a></p>
 </div>
 
 ## About EIPI Lab
