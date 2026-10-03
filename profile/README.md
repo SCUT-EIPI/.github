@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SCUT-EIPI/.github/main/profile/logo.svg" alt="EIPI Lab logo" width="200">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SCUT-EIPI/.github/main/profile/logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/SCUT-EIPI/.github/main/profile/logo.svg" alt="EIPI Lab logo" width="200">
+  </picture>
   <h1>EIPI Lab</h1>
   <p><a href="https://scut-eipi.github.io/"><img src="https://img.shields.io/badge/Visit%20our%20website-scut--eipi.github.io-0B6E8A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit the EIPI Lab website: scut-eipi.github.io"></a></p>
   <h3>Evolutionary Intelligence for Science and Engineering</h3>
