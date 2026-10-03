@@ -6,7 +6,7 @@
   <p><b>A research group at South China University of Technology (SCUT)</b><br>Guangzhou, China</p>
   <p>
     <a href="https://www.scut.edu.cn/en/"><img src="https://img.shields.io/badge/SCUT-South%20China%20University%20of%20Technology-003366?style=flat-square" alt="South China University of Technology"></a>
-    <a href="https://jinghuizhong.com/"><img src="https://img.shields.io/badge/Group%20Lead-Prof.%20Jinghui%20Zhong-107C41?style=flat-square" alt="Group lead: Prof. Jinghui Zhong"></a>
+    <a href="https://jinghuizhong.com/"><img src="https://img.shields.io/badge/Group%20Leader-Prof.%20Jinghui%20Zhong-107C41?style=flat-square" alt="Group leader: Prof. Jinghui Zhong"></a>
     <a href="https://scholar.google.com/citations?user=AO5BsHwAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-5800%2B%20Citations-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Prof. Jinghui Zhong’s Google Scholar: 5,800+ citations"></a>
     <a href="https://github.com/SCUT-EIPI"><img src="https://img.shields.io/badge/GitHub-SCUT--EIPI-181717?style=flat-square&logo=github" alt="SCUT-EIPI on GitHub"></a>
   </p>
@@ -111,5 +111,5 @@ Companion code and learning materials for Jinghui Zhong’s Chinese-language boo
 
 We welcome research discussions, collaborations, and inquiries from prospective students interested in evolutionary computation, symbolic regression, AI for science, or intelligent optimization.
 
-- **Group lead:** Prof. Jinghui Zhong — [jinghuizhong@scut.edu.cn](mailto:jinghuizhong@scut.edu.cn)
+- **Group leader:** Prof. Jinghui Zhong — [jinghuizhong@scut.edu.cn](mailto:jinghuizhong@scut.edu.cn)
 - **Location:** South China University of Technology, Guangzhou, China
